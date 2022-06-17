@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(119, 252, 243);
+}
+
+h1 {
+  text-align: center;
+}
+
+.list {
+  background-color: white;
+  list-style-type: none;
+  text-align: center;
+  text-transform: uppercase;
+  }
+
+  .item-1 {
+    color: rgb(11, 34, 81);
+  }
+
+  .item-2 {
+    color: darkorange;
+  }
+
+  .item-3 {
+    color: red;
+  }
+
+  .sublist {
+  list-style-type: none;
+  text-align: center;
+  }
+
+  .numeral-1 {
+    text-align: center;
+    text-transform: uppercase;
+    color:rgb(11, 34, 81); ;
+  }
+
+  .numeral-2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: darkorange;
+  }
+
+  .numeral-3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+  }
